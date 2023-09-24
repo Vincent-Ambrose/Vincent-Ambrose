@@ -20,4 +20,6 @@
   </a>
  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"/>
   </a>
+ <img src="https://img.shields.io/badge/Scipy-217346?style=for-the-badge&logo=scipy&logoColor=white" alt="sql"/>
+  </a>
 </div>

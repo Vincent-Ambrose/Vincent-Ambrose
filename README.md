@@ -27,4 +27,4 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vincentambrose&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vincent-Ambrose&theme=dark&background=000000)](https://git.io/streak-stats)

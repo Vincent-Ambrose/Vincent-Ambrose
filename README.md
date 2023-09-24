@@ -2,9 +2,9 @@
 
 ### Hi, I'm Vicente, an aerospace engineer who fell in love with Data Science. Glad to have you here!
 
-- 🔭 I work as a System Engineer on navy boat and giving my free time to this new interest
-- 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on Entry Level project
+- 🔭 I work as a System Engineer on navy boat and giving my free time to this new interest.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on Entry Level project.
 - 💬 Ask me about Aeronautics and Aerospace. I hold a MSc in it.
 - 📫 How to reach me: vicente.dambrosio@gmail.com
 - ⚡ Fun fact: I lived in 6 different countries

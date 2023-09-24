@@ -1,6 +1,6 @@
 <img width="1287" alt="aa" src="https://github.com/Vincent-Ambrose/Vincent-Ambrose/assets/118930159/8d5bf791-a6f1-43a6-9374-00ec0c9a8929">
 
-### Hi 👋, I'm Vicente, an aerospace engineer who fell in love with Data Science  
+### Hi, I'm Vicente, an aerospace engineer who fell in love with Data Science. Glad to have you here!
 
 - 🔭 I’m currently working as a System Engineer on navy boat
 - 🌱 I’m currently learning Machine Learning 

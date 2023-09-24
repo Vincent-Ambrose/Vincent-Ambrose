@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Vicente
 
-<!--
+
 **Vincent-Ambrose/Vincent-Ambrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img width="1287" alt="aa" src="https://github.com/Vincent-Ambrose/Vincent-Ambrose/assets/118930159/8d5bf791-a6f1-43a6-9374-00ec0c9a8929">
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about aeronautics and aerospace
 - 📫 How to reach me: vicente.dambrosio@gmail.com
 - ⚡ Fun fact: I lived in 6 different countries
--->
+
 
 🛠️ Lenguajes y herramientas que utilizo:
 <div id="header" align="left">

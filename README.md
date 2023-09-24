@@ -6,14 +6,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a System Engineer on navy boat
 - 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on entry level project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about aeronautics and aerospace
+- 👯 I’m looking to collaborate on Entry Level project
+- 💬 Ask me about Aeronautics and Aerospace. I hold a MSc in it.
 - 📫 How to reach me: vicente.dambrosio@gmail.com
 - ⚡ Fun fact: I lived in 6 different countries
 
 
-🛠️ Lenguajes y herramientas que utilizo:
+🛠️ Languages and tools that I use:
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>

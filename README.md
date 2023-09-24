@@ -25,3 +25,6 @@
  <img src="https://camo.githubusercontent.com/07f9ccb5cfb32e0ddc3b0bb406e191c636c2f0d2e99f3542e7d60b6958e44a44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b" alt="sql"/>
   </a>
 </div>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vincentambrose&theme=dark&background=000000)](https://git.io/streak-stats)

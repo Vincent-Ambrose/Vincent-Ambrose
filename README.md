@@ -1,4 +1,4 @@
-<img width="1287" alt="aa" src="https://github.com/Vincent-Ambrose/Vincent-Ambrose/assets/118930159/8d5bf791-a6f1-43a6-9374-00ec0c9a8929">
+![finale](https://github.com/Vincent-Ambrose/Vincent-Ambrose/assets/118930159/09e39958-53e4-4b06-8220-48b6c98f62f9)
 
 ### Hi, I'm Vicente, an aerospace engineer who fell in love with Data Science. Glad to have you here!
 

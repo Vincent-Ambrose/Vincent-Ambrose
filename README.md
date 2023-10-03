@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Entry Level project.
 - 💬 Ask me about Aeronautics and Aerospace. I hold a MSc in it.
 - 📫 How to reach me: vicente.dambrosio@gmail.com
-- ⚡ Fun fact: I lived in 6 different countries
+- ⚡ Fun fact: I lived (studied and/or worked) in 6 different countries
 
 
 🛠️ Languages and tools that I use:
